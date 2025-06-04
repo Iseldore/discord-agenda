@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Iseldore\DiscordAgenda\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DiscordAgendaCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'discord-agenda';
 
     public $description = 'My command';
 
